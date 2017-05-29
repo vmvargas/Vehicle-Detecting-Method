@@ -16,4 +16,8 @@ This file were developed and tested on MATLAB R2017a. The products need to run a
 ## To run this file
 Keep all files on the same folder and run the script 'projectSource.m'.
 
-This script will read and process the video'dataset.mp4' as a video input.
+**NOTE:** This script will read and process the video'dataset.mp4' as a video input.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
